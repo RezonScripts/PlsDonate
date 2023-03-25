@@ -1,2 +1,2 @@
 # PlsDonate
-Pls Donate Script
+This script is for windows and macOS.
